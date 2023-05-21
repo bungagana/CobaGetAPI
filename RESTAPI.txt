@@ -1,0 +1,5 @@
+
+Retrofit digunakan untuk mempermudah aplikasi android kita mengambil data dari api server. Dengan menggunakan Retrofit kita lebih mudah untuk melakukan request melalui HTTP. Request yang disediakan Retrofit ada lima yaitu GET, POST, PUT, DELETE, dan HEAD.
+Untuk praktikum kali ini kita akan mencoba implementasi Get rest API
+Rest API 
+https://apitani.burunghantu.id/sub/restapi-slim/public/datamahasiswa/
